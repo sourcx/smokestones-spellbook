@@ -1,5 +1,7 @@
 # Smokestone's Spellbook
 
+[https://sourcx.github.io/smokestones-spellbook/](https://sourcx.github.io/smokestones-spellbook/)
+
 ## Spellustration - Chromatic Orb
 
 ![Chromatic Orb](https://github.com/sourcx/smokestones-spellbook/blob/main/wizard/Spellustration%20-%20Chromatic%20Orb.png?raw=true)
