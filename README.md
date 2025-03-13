@@ -40,6 +40,10 @@
 
 ![Mirror Image](https://github.com/sourcx/smokestones-spellbook/blob/main/wizard/Spellustration%20-%20Mirror%20Image.png?raw=true)
 
+## Spellustration - Purify Food and Drink
+
+![Purify Food and Drink](https://github.com/sourcx/smokestones-spellbook/blob/main/wizard/Spellustration%20-%20Purify%20Food%20and%20Drink.png?raw=true)
+
 ## Spellustration - Snare
 
 ![Snare](https://github.com/sourcx/smokestones-spellbook/blob/main/wizard/Spellustration%20-%20Snare.png?raw=true)
