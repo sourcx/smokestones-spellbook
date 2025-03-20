@@ -24,6 +24,10 @@
 
 ![False Life](https://github.com/sourcx/smokestones-spellbook/blob/main/wizard/Spellustration%20-%20False%20Life.png?raw=true)
 
+## Spellustration - Identify
+
+![Identify](https://raw.githubusercontent.com/sourcx/smokestones-spellbook/refs/heads/main/wizard/Spellustration%20-%20Identify.webp)
+
 ## Spellustration - Mage Armor
 
 ![Mage Armor](https://github.com/sourcx/smokestones-spellbook/blob/main/wizard/Spellustration%20-%20Mage%20Armor.png?raw=true)
@@ -60,7 +64,10 @@
 
 ![Heroism](https://github.com/sourcx/smokestones-spellbook/blob/main/artificer/Spellschematic%20-%20Heroism.png?raw=true)
 
+## Spellschematic - Identify
+
+![Identify](https://raw.githubusercontent.com/sourcx/smokestones-spellbook/refs/heads/main/artificer/Spellschematic%20-%20Identify.webp)
+
 ## Spellschematic - Spare the Dying.png
 
 ![Spare the Dying](https://github.com/sourcx/smokestones-spellbook/blob/main/artificer/Spellschematic%20-%20Spare%20the%20Dying.png?raw=true)
-
